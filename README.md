@@ -4,15 +4,16 @@
 ### I´m Cyro Gondim, Industrial Engineer passionate by Technology and Software Development 👨‍🚀  
 
 
-- 🔭 I’m currently working with backend 🪖 
-- 🌱 I’m currently learning Python 🐍 
-- 👯 I’m looking to collaborate on Phyton Pro 🇧🇷
-- 📫 How to reach me: cyro.gondim@gmail.com
-- ⚡ Fun fact: I have been to Finland as an exchange student 🇫🇮 
+- I’m currently working with backend 🪖 
+- I’m currently learning Python 🐍 
+- I’m looking to collaborate on Phyton Pro 🇧🇷
+- How to reach me: cyro.gondim@gmail.com 📫
+- Fun fact: I have been to Finland as an exchange student 🇫🇮 ☃️ 
 
 <div align="center">
   <a href="https://github.com/CyroGund">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyroGund&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyroGund&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
